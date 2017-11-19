@@ -27,9 +27,3 @@ target/
 # system ignore
 .DS_Store
 Thumbs.db
-
-# else
-.springBeans
-microservice-discovery-eureka/.mvn/wrapper/maven-wrapper.jar
-microservice-discovery-eureka/pom.xml
-microservice-discovery-eureka/src/

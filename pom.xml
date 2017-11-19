@@ -13,7 +13,8 @@
 		<module>microservice-discovery-eureka-service</module>
 		<!-- 用户管理系统 -->
 		<module>microservice-provider-user-system</module>
-	</modules>
+        <module>luobosi-redis-service</module>
+    </modules>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
